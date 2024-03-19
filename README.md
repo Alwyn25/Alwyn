@@ -10,7 +10,7 @@
   <a href="https://github.com/Alwyn25?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Alwyn25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Alwyn25/Simple-View-Counter"> 
-    <img alt="views " title="GitHub profile views" src="https://192.168.116.157:8080/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAlwyn25" alt="Hits"/></a>
+    <img alt="views " title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Alwyn25&labelColor=800080&color=8902a0&style=for-the-badge" alt="Profile Views Counter"/></a>
 </p>
 <br/>
 
