@@ -13,6 +13,8 @@
     <img alt="views " title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Alwyn25&labelColor=800080&color=8902a0&style=for-the-badge" alt="Profile Views Counter"/></a>
 </p>
 <br/>
+<details open>
+  <summary><h2> 💫 About Me: </h2></summary>
 
 - 🔭 I’m currently working on [Q&A conversational chatbot](https://github.com/Alwyn25/Chat-with-PDFs)
 
@@ -27,6 +29,7 @@
 - 📫 How to reach me **alwyns2508@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GBiCdY-LBN7nFWarW0CS-GwkTLk2w5Pd/view?usp=sharing](https://drive.google.com/file/d/1GBiCdY-LBN7nFWarW0CS-GwkTLk2w5Pd/view?usp=sharing)
+</details>
   
 
 <details open>
@@ -52,8 +55,16 @@
     </a>
   </p>
 </details>
-
 <details open>
+  <summary><h2> 🌐 Socials:</h2></summary>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alwyn.sap) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alwyn.sap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alwynsebastian) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alwyns2508) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Alwyn-Sebastian) 
+</details>
+<details open>
+    <summary><h2> 💻 Tech Stack:</h2></summary>'
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</details>
+<details open>
+    
   <summary><h2> ✍ Blogs posts</h2></summary>
   <ul>
     <li><a href="https://medium.com/@alwyns2508/exploring-rags-role-in-q-a-with-langchain-11831c366364">Exploring RAG’s Role in Q&A with LangChain</a></li>
@@ -133,27 +144,22 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alwyn25&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alwyn25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alwyn25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwyn25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <h3>💻 GitHub Profile Stats</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Alwyn25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alwyn25's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Alwyn25&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alwyn25's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Alwyn25&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Hack,Roff" height="192px"/></a>
-  <br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Alwyn25&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Alwyn25"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alwyn25&theme=react&hide_border=true" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=Alwyn25&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   <h3>⚡ Recent GitHub Activity</h3>
