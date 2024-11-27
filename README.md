@@ -87,15 +87,6 @@
 </details>
 
 
-<details open>
-  <summary><h2>🔗 Connect with me:</h2></summary>
-  <p align="left">
-  <a href="https://linkedin.com/in/alwynsebastian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alwynsebastian" height="30" width="40" /></a>
-  <a href="https://fb.com/alwyn.sap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alwyn.sap" height="30" width="40" /></a>
-  <a href="https://medium.com/@alwyns2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alwyns2508" height="30" width="40" /></a>
-  </p>
-</details>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
