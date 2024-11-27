@@ -57,7 +57,6 @@
 </details>
 <details open>
     <summary><h2> 🌐 Socials:</h2></summary>
-    ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -154,7 +153,6 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alwyn25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alwyn25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwyn25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
