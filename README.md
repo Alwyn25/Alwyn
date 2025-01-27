@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **alwyns2508@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XaNXPl62jauW2zrB5_qiAyr2Fo7lKT-T/view?usp=sharing](https://drive.google.com/file/d/1ZesaLLNS5QhU0GpcKkA5ZFuDvxHWrisO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dXgPE3f22-pBhi44h7bvJt-MszPmYC7a/view?usp=sharing)
 </details>
   
 
