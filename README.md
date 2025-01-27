@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **RAG Framework**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1GBiCdY-LBN7nFWarW0CS-GwkTLk2w5Pd/view?usp=sharing](https://drive.google.com/file/d/1GBiCdY-LBN7nFWarW0CS-GwkTLk2w5Pd/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [](https://drive.google.com/file/d/1GBiCdY-LBN7nFWarW0CS-GwkTLk2w5Pd/view?usp=sharing)
 
 - 📝 I regularly write articles on [https://medium.com/@alwyns2508](https://medium.com/@alwyns2508)
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **alwyns2508@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XaNXPl62jauW2zrB5_qiAyr2Fo7lKT-T/view?usp=sharing](https://drive.google.com/file/d/1XaNXPl62jauW2zrB5_qiAyr2Fo7lKT-T/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XaNXPl62jauW2zrB5_qiAyr2Fo7lKT-T/view?usp=sharing](https://drive.google.com/file/d/1ZesaLLNS5QhU0GpcKkA5ZFuDvxHWrisO/view?usp=sharing)
 </details>
   
 
