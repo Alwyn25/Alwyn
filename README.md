@@ -16,7 +16,7 @@
 <details open>
   <summary><h2> 💫 About Me: </h2></summary>
 
-- 🔭 I’m currently working on [Q&A conversational chatbot](https://github.com/Alwyn25/Chat-with-PDFs)
+- 🔭 I’m currently working on [Agentic AI](https://github.com/Alwyn25/finance_agentic_ai)
 
 - 🌱 I’m currently learning **RAG Framework**
 
